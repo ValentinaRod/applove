@@ -21,7 +21,7 @@ body {
   font-size: 16px;
   line-height: 1.71429;
   background-color: #fff;
-  font-family: 'Bubbler One', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 img {
@@ -115,4 +115,29 @@ footer{
   background-color: #373b47;
   color: white;
   padding-top: 7px;
+}
+
+/* realizar parte 2 work- ejercicio evaluado*/
+
+#Work .container {
+  background: white;
+    width: 100%;
+    margin: 0px auto;
+}
+
+#Work .container h4{
+  font-size: 40px;
+  color: black;
+  text-align: center;
+}
+
+#Work .container p{
+  color: black;
+  font-size: 12px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#Work .container img{
+  width: 100%;
 }
