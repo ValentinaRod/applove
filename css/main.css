@@ -141,3 +141,7 @@ footer{
 #Work .container img{
   width: 100%;
 }
+.row h2 {
+  color: black;
+  font-weight: bold;
+}
